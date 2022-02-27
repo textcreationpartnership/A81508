@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse betvveene a resolved, and a doubtfull Englishman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81508</idno>
+            <idno type="STC">Wing D1572</idno>
+            <idno type="STC">Thomason E128_41</idno>
+            <idno type="STC">ESTC R212775</idno>
+            <idno type="EEBO-CITATION">99871346</idno>
+            <idno type="PROQUEST">99871346</idno>
+            <idno type="VID">156264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156264)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse betvveene a resolved, and a doubtfull Englishman.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:156264:1" rendition="simple:additions"/>
+            <head>A DISCOURSE BETVVEENE A <hi>Reſolved,</hi> and a <hi>Doubtfull</hi> Engliſhman.</head>
+            <sp>
+               <speaker>Reſolved.</speaker>
+               <p>HOw now neighbour, how are you now minded? have you brought in your plate and mony for aſſiſtance of the Parliament, againſt the oppo<g ref="char:EOLhyphen"/>ſers of their and our priviledges?</p>
+            </sp>
+            <sp>
+               <speaker>Doubtfuil.</speaker>
+               <p>I am not yet reſolved, yet I am ſure I beare as good affection to my Coun<g ref="char:EOLhyphen"/>try, and to the Parliament, and am as much an enemy to their oppoſers as you are, were I ſatisfied of ſome ſcruples begotten in me, not by my own fancy, but by expreſſions of the Parliament it ſelfe, which if you did obſerve as I doe, I beleeve it would ſomewhat ſtagger your reſolution.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>What may thoſe ſcruples be? I ſee no cauſe at all.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>The Parliament have declared the King to be the head of his great Coun<g ref="char:EOLhyphen"/>cell the Parliament, which to my underſtanding argues him to be a very conſiderable part thereof, and you and I, and all men ſee that no act of Parliament is ever made but by the Kings aſſent, and if he aſſent not, it is no act, nor paſſes as a Law to binde the people; which proves to me, that he hath in all things a negative voice, which alſo the King claimes by the fundamentall Lawes of the Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>By which rule, If the Common-wealth be prejudiced by any new invented miſchiefe, and upon debate thereof in Parliament, the Lords and Commons (both Houſes) agree upon a remedy, yet if it ſutes not with the Kings minde, the remedy ſhall not take place, nor no Law paſſe for removall of the miſchiefe: Nay by this rule, if for<g ref="char:EOLhyphen"/>mer Kings, in former Parliaments have obtained Lawes for advance of Prerogative, and to the prejudice of the peoples liberty, the people are likely to lie long enough un<g ref="char:EOLhyphen"/>der the burthen, for Kings are not likely to remit any part of their Prerogatives, nor to paſſe any Law againſt themſelves, though both Houſes ſhould conceive the ſame never <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o juſt and reaſonable, and ſo the Kingdome ſhall for ever remaine under prejudices, and intollerable grievances, without hope of remedy.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I pray what remedy have you?</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>Suppoſe the King ſhould himſelf lay a foundation for arbitrary Government, and for that end ſtrengthen himſelfe by making a party throughout the Kingdome; ſuppoſe he ſhould raiſe forces within, and hire forces from abroad, and thinking his force ſufficient, ſhould call a Parliament, as hoping to overawe them, to make Lawes ſutable to his ends, but yet upon debate betwixt both Houſes they ſhould conclude up<g ref="char:EOLhyphen"/>on Lawes quite contrary, and deſtructive to his ends, when doe you thinke the King would aſſent to thoſe Lawes?</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>Never.</p>
+            </sp>
+            <pb facs="tcp:156264:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:156264:3"/>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>And ſo the Parliament ſhall have no meanes to preſerve themſelves and the whole Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>The Parliament hath, but the King is the Head thereof, and till his under<g ref="char:EOLhyphen"/>ſtanding and conſcience be ſatisfied, what can they doe? The King claimes not a pow<g ref="char:EOLhyphen"/>er of making Lawes without them, but denies them any power without him, which be<g ref="char:EOLhyphen"/>ing granted (as neceſſarily you muſt grant it) he being Head of the Parliament, me thinkes you ſhould anſwer your ſelfe, and abate of your reſolution.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>You, nor all the world ſhall ere perſwade me that there is any preſcribing for prejudices in Government, and ſuch by which the whole Kingdome ſhall be in danger to be deſtroyed (as of neceſſity it muſt be, when one man hath a legall power to binde their hands) which I cannot yet beleeve, our forefathers were wiſer then ſo, they have not ſpent their blood ſo freely in oppoſition of ambitious Princes, to preſerve unto us the name only of freemen, leaving us without a juſt meanes to preſerve our ſelves in all cauſes where the King would not aſſent, and though they had, it had been only the er<g ref="char:EOLhyphen"/>ror of their iudgements, and cannot conclude as by any their conſtitutions which tend to our ruine or enſlaving: The people of England are a free people, and ſo acknow<g ref="char:EOLhyphen"/>ledged to be by all the world, and where they finde any thing in their government, any way tending of it ſelfe, or interpreted and made uſe of by polititians to their preiudice in any kinde whatſoever; thoſe things the Parliament hath full power to alter or re<g ref="char:EOLhyphen"/>move, and to breake through all oppoſition, wherein the people are to give them all aide and aſſiſtance: for though evill and preiudiciall lawes and cuſtomes had confirmed for thouſands of yeares, there is no pleading for their continuance againſt the minde of the Parliament, the minde of the Parliament being the minde of the whole Kingdome, and is ſo to be taken and eſteemed, and is never otherwiſe to be knowne, but by the Parliament only: and now it comes to my minde, I pray tell me what place the King hath in Parliament? Sure I am, that untill very lately, the Kings claime of being a part of the Parliament hath not been heard amongſt us: indeed ſince he hath abſented him<g ref="char:EOLhyphen"/>ſelfe from White Hall (for there was his reſidence whilſt the Parliament ſate) the Par<g ref="char:EOLhyphen"/>liament being the Parliament compleate, and the King the King, and that he endeavou<g ref="char:EOLhyphen"/>red to make voide all their proceedings, and to fruſtrate all their endeavours to pre<g ref="char:EOLhyphen"/>ſerve the Kingdome from the like ruine which is brought upon Ireland, and to beget a doubting in the people of the power of Parliaments, leſt they ſhould yeeld occdience to the Ordinance of the <hi>Militia</hi> (the only meanes to give check to his deſignes) I ſay till very lately it was never heard that the King was a part of the Parliament, nor never had been I beleeve, but that it was the only way to ſtagger the mindes of men, and I ſee it is the only cauſe that you (and many others well affected to their Countrey) doe not contribute that aſſiſtance which the iuſtneſſe of the cauſe, and neceſſity of the time doe require. The King is the higheſt Magiſtrate, A Magiſtrate and Officer of the King<g ref="char:EOLhyphen"/>dome he is, but that any Magiſtrate hath any place in Parliament by vertue of his Ma<g ref="char:EOLhyphen"/>giſtracy, I doe not conceive: The Kings Office is chiefly to overſee that Officers, or Magiſtrates, or Judges doe performe their duties according to Law: The buſineſſe of
+<pb facs="tcp:156264:3"/>the Parliament is to overſee all Magiſtrates, and to take an accompt of them all without exception, as they ſhall ſee cauſe, and to place and diſplace, as concernes the welfare of the people.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>The King hath of right belonging unto his Prerogative the power of calling of Parliaments, without his Writ they meet not, and therefore I conceive he hath a negative voice, for did hee doubt their compliance with him, or had hee not liberty of aſſent, or diſſent, hee would certainly never call Parliaments, being not to bee called but only by him, and are likewiſe diſſolvable at his pleaſure, all which the KING claimes and affirmes to bee his undoubted right, and I doe do not heare or ſee any expreſſion directly from the Parliament that doth contradict the ſame, or to my underſtanding prove it to be otherwiſe, or that they doe challenge ſo great power over all Magiſtrates (whereof the King you ſay is one) or that they doe deny him to be a p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt of the Parliament: ſure I am in all their addreſſes unto him they proſtrate themſelves in the humbleſt tearmes as your Maieſties moſt humble and loyall ſubiects, the Lords and Commons in this preſent Parliament aſſembled; they ſtile themſelves his Parliament, and his great Counſell, all which prove to my under<g ref="char:EOLhyphen"/>ſtanding, that in him alone remaines the ſupreame power, which you would ſeeme to place in them alone without him; and infer that they have power to call him to an account for the defects of his goverment, which they have never affirmed: nay, they are ſo farre from affirming any ſuch thing, that they decline, that it is a maxime in our Law, that the King can doe no wrong, and all the defects of Government they lay up<g ref="char:EOLhyphen"/>on evill Miniſters that have abuſed his truſt. So that the ſupreame power being in the King when the Commands of both Houſes and His are oppoſite, that I yeeld my obedience unto him, is full ſatisfaction to my conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>Doe you not allow that the ſafety of the people is the ſupreame Law, and the foundation of all Governments.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I doe.</p>
+            </sp>
+            <sp>
+               <speaker>Reſ.</speaker>
+               <p>Doe you conceive the ſafety of the people to be ſufficiently provided for, when it depends on the iudgement and will of one man?</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I confeſſe freely, I doe conceive it is not ſafe that it ſhould be ſo, and I have oftentimes conſidered it, and doe uudoubtedly beleeve that they can never be better provided of their ſafety, then to be at the ſole diſpoſing of the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, though the King ſhould be no part thereof; for be he the wiſeſt man in the world he is but one man, and that great Counſell could not be much bettered by any one mans iudgement: I conceive alſo the preiudice to be very great, that the King ſhould have a negative voyce, or have the ſole power of calling and diſſolving of Parliaments, all this and more I ſee and iudge as clearely as you: and have won<g ref="char:EOLhyphen"/>dred that Kings ſhould be accomptable onely to God, and not to the power of Parliament: but what is all this to mee or to you (if you would rightly
+<pb facs="tcp:156264:4"/>conſider) who are ſubjects, and muſt, and ought to ſubmit to the conſtitutions of our Government (and how prejudiciall ſoever theſe conſtitutions are) we are not to inter<g ref="char:EOLhyphen"/>poſe our particular judgements, but to ſubmit with all obedience, and that the conſti<g ref="char:EOLhyphen"/>tutions of our Government have placed ſo great and abſolute a power in the King, I am induced to beleeve from the two Houſes owne expreſſions, and the Kings claime uncontradicted, or not ſo plainly, as that I underſtand it.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>To my minde now, I ſee ſome reaſons inducing the Parliament to uſe ſuch low expreſſions, and humble tearmes, which occaſion in you (though not juſtly) a diſ<g ref="char:EOLhyphen"/>eſteeme of their power, for you will finde when you have conſidered all you can, the King is only the ſupreame Magiſtrate, but the Parliament is the ſupreame power, from which there is no appeale, And by Parliament I underſtand the two Houſes of Lords and Commons, and their force and power to be iuſtly in the Maior part, &amp; their Votes to be the reaſon of the Kingdome; One reaſon may be the long diſuſe of the Parlia<g ref="char:EOLhyphen"/>mentary power, occaſioned by a ſtrong hand borne over them by the KING, and moſt of his Predeceſſours, who have all endeavoured to abate their power, and thereby to advance the power of the KINGS above the power of Par<g ref="char:EOLhyphen"/>liaments, which taking effect by degrees, and getting ground by long diſuſe, and a<g ref="char:EOLhyphen"/>buſe of Parliaments, abridging their priviledges, and oppreſſing many of their Mem<g ref="char:EOLhyphen"/>bers, ſo that now in our preſent age, men eſteeme of the Parliamentary power, iuſt as Kings would have them, and according to their polititians interpretation, and cannot ſo much as gueſſe what their power is in deed and in truth; and when any man ſpeakes of an unlimited power in them, that they are neither bound to obſerve formes, nor limited by preſidents, nor Lawes, but may lawfully proceed to doe whatſoever the ſafety of the people (whoſe guardians they are) ſhall invite them unto, when they are told that their power is above the power of Kings, and that Kings are accomptable unto them; That the King is bound by Law to call a Parliament once every yeare, and oftner if need, be even by that Law which ſo provides, <hi>An.</hi> 4. <hi>Edw.</hi> 3. <hi>&amp;</hi> 36. That his aſſent is required, is but to binde him to ſee that the inferiour Magiſtrates put that Law in due execution out of times of Parliament, and is only matter of forme and complement of every act, inſtituted at firſt by thoſe our forefathers, who expected that our Kings would be ever the beſt affected unto Parliaments of any men in the Kingdome, or that our care would be ſuch, that they ſhould not long continue the worſt affected; which alſo was the cauſe that they were entruſted with the calling and diſſolving of Parliaments, not once ima<g ref="char:EOLhyphen"/>gining that theſe things ſhould ever have been turned to our ruine, which was intended for our preſervation: Though no man can deny theſe things to be iuſt and reaſonable, yet when they are ſpoken to the people, they grow angry, and are offended, and thinke it to be no leſſe then treaſon: and therefore I conceive the Parliament in their addreſſes unto the King have uſed ſuch language as you have recited, leſt the people ſhould have thought they had uſurped an authority above what was their due, and being thereby ex<g ref="char:EOLhyphen"/>aſperated, might (though to their owne ruine) have quarrelled at all their proceedings, which I am induced to beleeve, becauſe I have obſerved the Parliament have revealed
+<pb facs="tcp:156264:4"/>their power but by degrees, and only upon neceſſity, that neceſſity might make the peo<g ref="char:EOLhyphen"/>ple know that that power was iuſt and reaſonable, as fearing the peoples weakneſſe could not digeſt thoſe ſtrong and ſinowy truthes, whereunto their ſtomackes had not of long time been accuſtomed, though indeed it be the only food that makes us firme, and reſolute, and true Engliſhmen.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>Theſe things which you alleadge carry ſome colour in them, but ſurely did the Parliament judge of things as you doe, they could not in my judgement have done themſelves more good, nor the Kingdome more right, than to have uſed (in all their addreſſes to the King) ſuch language as had moſt properly expreſſed their full power, and his Office, for how elſe ſhall the Kingdome ever rightly underſtand that Relation which the Parliament hath unto the Common wealth, and that relation which the King hath unto the Common wealth: for admit I ſhould approve all that you ſay or have ſaid to be reaſonable; whether is more ſafe for me to be guided by your opinions, or the expreſſions of Parliament, which incline me quite contrary to your opinions: in this caſe you, nor no reaſonable man in the world can blame me if I ſtand ſuſpen<g ref="char:EOLhyphen"/>ded till the judgement of Parliaments by cleare expreſſions give weight to your opini<g ref="char:EOLhyphen"/>ons; for by their judgements, clearely expreſſing their power what it is, I ſtand ready to be concluded; for I allow their Votes to be the Reaſon of the Kingdome; but untill then, as my judgement, ſo is my practice alſo ſuſpended, and will not afford that aſſi<g ref="char:EOLhyphen"/>ſtance which you expreſſe, and is the caſe of many more beſides my ſelfe, and in my poore opinion we are not to be blamed.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>You may yet receive further ſatisfaction by conſidering the generall indul<g ref="char:EOLhyphen"/>gence of Parliaments towards their Kings, uſing them as indulgent Parents doe a ſonne whom they love, endeavouring by all meanes to preſerve their honour and great eſteeme with the people, paſſing over yeeres of iarrings, and uſing all indeavors to winne upon them with tenderneſſe of love and honour, hiding their owne iuſt power under humble and low expreſſions, leſt the people knowing their great intereſt therein, ſhould too haſtily call for juſtice, and grow implacable for iniuries received, and ſo prevent them in their more milde intentions of keeping open a paſſage for an erring Prince to returne with honour. This me thinks I ſee in their expreſſions, and how ill ſoever they have thrived thereby, it merits abundance of love, but they have hatred paied them plentifully for their good will, and I wiſh that mercy be not their un<g ref="char:EOLhyphen"/>doing.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I cannot thinke you judge rightly herein; for you indeavour to excuſe them by an indulgence, which ſeemes to me an infirmity, for the power of the Parliament is indeede the power of the people, and the people entruſt the Parliament with all their power, how great ſoever; and being ſo great as you have declared, according to the ſame, the Parliament (in my judgement) ſhould have proceeded, I cannot ſee how they can diſpence with the ſame ſo, much as in a mercifull or favourable expreſſion; can they ſhew any favour or indulgence but at the peoples charges, if in termes they give more, they give more to the King then is his due; are not the people thereby leſſened
+<pb facs="tcp:156264:5"/>in their power, and the Kings Prerogative advanced to their prejudice, they are ſurely more contentious then you would make them; you are too reſolute upon your owne judgement.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>And you too doubtfull upon yours, that where your owne reaſon and judge<g ref="char:EOLhyphen"/>ments concludes you may juſtly; yet dare not aide your Country in a caſe of ſo great neceſſitie: but we are ſtartled at tearmes which your ſelfe ſee through.</p>
+            </sp>
+            <sp>
+               <speaker>Doub.</speaker>
+               <p>The Reaſons I have given you muſt ſatisfie me, and will doe thouſands more till we have further ſatisfaction thereon, you or any (but the Parliament) can give, how ſlight ſoever you make it.</p>
+            </sp>
+            <sp>
+               <speaker>Reſo.</speaker>
+               <p>Truely I am ſorry for it: and doe wiſh you had full ſatisfaction in all the par<g ref="char:EOLhyphen"/>ticulars; but it is a ſad caſe that you would hold yo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nds in your boſome, while e<g ref="char:EOLhyphen"/>very mans hand is required to the worke, and all <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ough, and I heartily wiſh that all <hi>England</hi> doe not repent this niceneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>If all <hi>England</hi> ſhould have cauſe to repent this which you call niceneſſe in us, and that the want of our contributions ſhould be the loſſe of all our liberties, and the ruine of the Kingdome, who ſhall be blamed juſtly therefore?</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>Who ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>Neither I, nor none of my minde, who ſtand ready to be concluded by the Vote of Parliament, declaring that high Aſſembly to be the ſupreame power, and the Kings Office to be, as you have expreſſed, but untill that be done. I pray doe you tell me who is to be blamed if the Kingdome be loſt for want of our aſſiſtance.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>There is not any of the particulars whereof you ſee me as yet not to be ſatiſ<g ref="char:EOLhyphen"/>fied: but if you would diligently obſerve the ſeverall Declarations ſet forth this Parlia<g ref="char:EOLhyphen"/>ment, you ſhall finde every one of them cleared ſufficiently, to ſatisfie any ingenious man, and to leave you without excuſe.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I have read them all moſt diligently, and heare and there in them I doe diſcerne ſome expreſſions inclining to your underſtanding of their Power, &amp; the Kings Office, but withall I finde the ſame that I alſo have mentioned, and if thoſe proceed from indulgence in them, as you ſuppoſe, that is yet but your ſuppoſition, nor are their affirmations briefely recited, and but toucht upon occaſion of diſpute betwixt them and the King, ſufficient to ſettle my underſtanding, their other indulgent expreſſions (as you call them) ſtanding unrecalled.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>What would you have?</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I will tell you, when I ſhall ſee the expreſſions I have mentioned, by the Parliament acknowledged to be but indulgent expreſſions onely, hoping hereby to winne by love upon the King, and to preſerve his honour.</p>
+               <p>When they ſhall by ſound Reaſons prove themſelves to be the ſupreame power, that they are bound onely to obſerve the ſupreame Law, the ſafety of the people; that the King is accomptable unto them for performance of his office, and the like buſineſſes appertaining to a ſupreame power, and Vote the ſame to be received as agreeable to the conſtitution of the government of <hi>England,</hi> and not to be argued againſt by any con<g ref="char:EOLhyphen"/>dition
+<pb facs="tcp:156264:5"/>of men whatſoever, upon the higheſt puniſhment. Then ſhall you ſee that I, and ſuch as I am, will as really comply with their commands, as you, or any the moſt Reli<g ref="char:EOLhyphen"/>gious man in the Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>You ſee the Parliament takes the more gentle way of borrowing, and doth not command you ſo much as to lend, and yet they prevaile nothing with you.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>If they are the ſupreame power, I had much rather my money ſhould be compelled from me by way of Subſidyes, equally to be rated upon all men alike which is the old and good way of the Kingdome, and can never faile to yeeld ſufficient ſup<g ref="char:EOLhyphen"/>plies for preſervation thereof, whereas you would finde that the voluntary affecti<g ref="char:EOLhyphen"/>ons of the people will never hold out to furniſh for perfecting the preſent workes which they have in hand; if they are the ſupreame power then I conceive the preſent warre to be juſt, and being juſt, I ſhall as willingly adventure my life and eſtate in pro<g ref="char:EOLhyphen"/>ſecution thereof as any man whatſoever is, and this being really my minde, I doe not ſee how you can blame me.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>You ſhould doe well to petition the Parliament for to publiſh to the whole Kingdome, their iudgements in the particulars wherein you remaine doubtfull.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I pray you pardon me for that, you are in good eſteeme, by reaſon you have teſtified your continuall aſſiſtance, which my conſcience would not permit me to doe; and therefore if it doe appeare to you and others of your iudgement to be a work tending to the good of the whole Kingdome (as to me it ſeemes it doth) and the onely meanes to rectifie the iudgements of all men, and to unite their affections. I then con<g ref="char:EOLhyphen"/>ceive it would be an acceptable ſervice for you to preſent a petition to that end.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>For our part we are fully ſattisfied that what the Parliament hath done is moſt iuſt, for that we are aſſured they will doe nothing not agreeable unto equity and iuſtice, and you ſee they have done, and dayly doe proceede to doe the works of the ſupreame power, which were it not their right they would not doe, and therefore for us to trouble them in your behalfe, which perhaps when we have prevailed with them to declare their power, you would have one pretence or other to hold your monies, which I feare is too deere to you to part withall, though the Kingdome ſhould periſh for want thereof, and am no whit doubtfull but the Kingdome will in ſhort time be fully ſetled without your aide, to the perpetuall ſhame of you, and ſuch as you are.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I beleeve you will finde your ſelves deceived, I confeſſe you are moſt of you truely honeſt, and ſincere lovers of your Country, but indeede if you well conſider, you ſhall finde you are not principled to deale with thoſe polliticke adverſaries you have, you are too apt to ſlight their power, their friends, and meanes to doe you miſ<g ref="char:EOLhyphen"/>chiefe; and you are too too confident of your owne; you doe not ſee far enough into the affaires of State and warre; you looke onely at the preſent, and ſeeing no want, you thinke there never will be any, you thinke to diſpatch your worke in ſhort time, and ſo apply your ſelves to your trades and getting of moneyes; whereas your Adverſaries reſolve it ſhould be a buſineſſe of yeares, for ſo they gaine their ends, though it be ſeaven yeares hence, it ſhould ſerve their turne.
+<pb facs="tcp:156264:6"/>They know you muſt be waſted, and poore, and friendleſſe, before they ſhall effect their deſignes of making you ſlaves, and therefore it behooves you to free your ſelves from this too much conceit of your owne force and meanes, and not ſo ſlightly to reject that uſe you may yet make of men of my condition, but as willingly incline to give us ſatisfaction, as we (being by your procurement ſatisfied) ſhall be ready to joyne heart and hand with you, in any thing that you ſhall make appeare to be juſt; and howſoever you are confident that the Parliament will doe nothing but what is juſt, yet it will be much more profitable for the Kingdome, that the Parliament be pleaſed to argue the reaſon of their juſt power before they uſe it: and for your ſelves, in acting the power which they oftentimes put you in truſt withall upon ſundry occaſions, it will be much more pleaſing to your ſelves, and any that are to be commanded by you, when you ſhall be furniſhed with ſufficient arguments to prove the things you doe or command to be juſt, rather then violently to compell men upon their power, not yet ma<g ref="char:EOLhyphen"/>nifeſted fully.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>If we ſhould petition the Parliament, would you joyne with us therein?</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>Truly for my part I will, and I beleeve many more that as yet have done no ſervice for the Parliament, for I conceive ſo much good will come thereof, that either a good peace will ſoon follow thereupon, or a more reſolute proſecution of the War, for if men were once ſetled in their judge<g ref="char:EOLhyphen"/>ments concerning thoſe uſefull points in Government; then would every man ſee who it is that is the cauſe of all, and be able to diſcourſe of all the differences, and ſee plainly wherein they were in<g ref="char:EOLhyphen"/>jured, and be enraged with juſt anger againſt the Authors and maintainers thereof: Whereas whileſt they continue divided in their underſtandings and affections, and unſatisfied in the true ſtate of the cauſe of this War, it will be proſecuted ſo coldly, as you will be continually waſted, and vexed to ſee the unavoidable miſeries that will fall upon you, and all your poſterity.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>Give me your hand, I ſee my error, but doe you conceive there are many in the Kingdome ſo ingenuous malignants as you are, that would gladly be ſatisfied?</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>I verily beleeve the greateſt number that you call Malignants are ſuch, and that you will ſoon perceive, if you can prevaile with the Parliament for ſatisfaction concerning their power, and to pu<g ref="char:EOLhyphen"/>niſh all oppoſers.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>Well, Ile about it inſtantly, for I ſee apparently it is the only meanes to unite all ſorts of men into one reſolved aſſociation, againſt all tyranny and oppreſſion, and that without union the polititi<g ref="char:EOLhyphen"/>ans will deſtroy us, all our money, and plate, and horſe, and ſhips, and ſtrong holds, and all our am<g ref="char:EOLhyphen"/>munition will not doe us ſo much good as unity amongſt our ſelves, all our petty differences in Reli<g ref="char:EOLhyphen"/>gion fomented by our Machivilian adverſaries of purpoſe to divide us muſt be laid aſide, and we muſt be united as one man, againſt whomſoever ſhall oppoſe the juſt and ſupreame power of Parliament: I ſee we have not been uſed to deale with ſuch policies, we muſt advance our ſpirits and hundred fold yet, before we ſhall be able to reach their deſignes, and we muſt give our heads no reſt, till we be able to meet them at every turne, and not only ſo, but to prevent them with ſtratagems, and to circumvent them with policies.</p>
+            </sp>
+            <sp>
+               <speaker>Doubt.</speaker>
+               <p>You make me glad to heare you thus reſolved, and if you and your friends make progreſſe therein, all the world will not be able to wrong you; and one maine thing you muſt ever have in minde, and that is, you muſt be extreamly miſtruſtfull, for in a civill War, as this is, there will bee ſuch jugling, ſuch treachery, and continuall betrayings, that you will be perpetually abuſed, except you be extreamly jealous, I might perhaps better ſay watchfull; and where in any man, without ex<g ref="char:EOLhyphen"/>ception, great or ſmall, you finde the leaſt abuſe, never ceaſe till you have gotten him our of all im<g ref="char:EOLhyphen"/>ployment, let no excuſe, nor no pretence ſerve the turne to re-admit him, but puniſh him to the full; if you doe not this to extremity, you ſhall be perpetually baſſled and ſlighted, and ſhall never maſter thoſe whom you imploy, nor have any uſe of them, but waſte of time, and money, and they in the end will maſter you; therefore looke to it in time, and call him no more Malignant that hath given you this Councell.</p>
+            </sp>
+            <sp>
+               <speaker>Reſol.</speaker>
+               <p>I will not: but my friend, my brother, We had need I ſee of ſuch heads amongſt us, and I ſhall endeavour to procure your ſatisfaction to the full, that our cauſe and us may deſerve your continu<g ref="char:EOLhyphen"/>all counſell and aſſiſtance, of which I make no doubt: And ſo for this time fare ye well.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
